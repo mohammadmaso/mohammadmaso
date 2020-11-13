@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+If you found value in something I have created, please feel free to give me a shout out [@mohammadmaso](https://twitter.com/) or give some ♥ on [mail](mailto:mohammadmasoudie@gmail.com). Feel free to reach out in case you want to just get in touch also.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmaso&hide=css,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
