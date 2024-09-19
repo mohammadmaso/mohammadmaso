@@ -1,34 +1,31 @@
 ### Hi there 👋
 
-I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@mohammadmaso](https://twitter.com/) or give some ♥ on [mail](mailto:mohammadmasoudie@gmail.com). Feel free to reach out in case you want to just get in touch also.
+I'm a Data Engineer and System Designer passionate about building scalable, efficient data pipelines and architectures. I love tackling complex data challenges and turning raw information into valuable insights. My journey involves continuous learning and sharing knowledge with the community.
+
+If you find value in my work, feel free to drop me a line at [mohammadmasoudie@gmail.com](mailto:mohammadmasoudie@gmail.com). I'm always open to interesting discussions and collaborations!
 
 <details>
- <summary><strong>What i am learning/working on these days 🌱</strong></summary>
+ <summary><strong>What I'm currently exploring 🚀</strong></summary>
  <ul>
-   <li> Efficient system designing </li>
-   <li> Working with Clojure </li>
-   <li> Deep learning </li>
-   <li> Tripper project</li>
-   <li> Financial forcasting with ML </li>
-   <li> React Native development</li>
-   <li> Django development </li>
+   <li>Designing highly scalable data systems</li>
+   <li>Big data processing with Apache Spark</li>
+   <li>Data warehousing solutions</li>
+   <li>Machine Learning pipelines</li>
+   <li>Cloud-based data architectures (AWS, GCP)</li>
+   <li>Data governance and quality assurance</li>
+   <li>Real-time data streaming with Kafka</li>
   </ul>
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmaso&hide=css,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mohammadmaso/mohammadmaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on innovative data engineering solutions
+- 🌱 I'm always learning about emerging data technologies
+- 👯 I'm looking to collaborate on open-source data projects
+- 💬 Ask me about data architecture and system design
+- 📫 How to reach me: [@mohammadmaso](https://twitter.com/) or [email](mailto:mohammadmasoudie@gmail.com)
+- ⚡ Fun fact: I believe good data architecture is like a well-designed city - efficient, scalable, and beautiful in its complexity
 -->
