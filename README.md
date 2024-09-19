@@ -17,8 +17,6 @@ If you find value in my work, feel free to drop me a line at [mohammadmasoudie@g
   </ul>
 </details>
 
-<!--
-**mohammadmaso/mohammadmaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,6 +24,6 @@ Here are some ideas to get you started:
 - 🌱 I'm always learning about emerging data technologies
 - 👯 I'm looking to collaborate on open-source data projects
 - 💬 Ask me about data architecture and system design
-- 📫 How to reach me: [@mohammadmaso](https://twitter.com/) or [email](mailto:mohammadmasoudie@gmail.com)
+- 📫 How to reach me: [email](mailto:mohammadmasoudie@gmail.com)
 - ⚡ Fun fact: I believe good data architecture is like a well-designed city - efficient, scalable, and beautiful in its complexity
--->
+
